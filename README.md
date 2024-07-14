@@ -1,14 +1,14 @@
-# get any
+<h1 align="center">get any</h1>
 
-| get random item from an array
+> get a random item from an array.
 
-i feel the need to do my bit and help fill npm with useless stuff. here is my little contribution!
+### install
 
-## install
+```
+npm install get-any
+```
 
-``npm install get-any``
-
-## usage
+### usage
 
 ```js
 import "get-any"

@@ -15,7 +15,10 @@
     "index.d.ts"
   ],
   "types": "index.d.ts",
-  "keywords": [],
+  "keywords": [
+    "array",
+    "random"
+  ],
   "author": "",
   "license": "ISC"
 }
