@@ -1,4 +1,4 @@
-<h1 align="center">get any</h1>
+<h2 align="center">get any</h2>
 
 > get a random item from an array.
 
@@ -11,9 +11,9 @@ npm install get-any
 ### usage
 
 ```js
-import "get-any"
+import "get-any";
 
 const arr = [1, 2, 3, 4];
 
-console.log(arr.getAny()); // 3
+console.log(arr.getAny()); // => 3
 ```

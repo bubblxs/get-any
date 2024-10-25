@@ -10,7 +10,7 @@ interface Array<T> {
     
     const arr = [1, 2, 3];
     
-    console.log(arr.getAny()); // 3
+    console.log(arr.getAny()); // => 3
     
     */
     getAny(): any;
