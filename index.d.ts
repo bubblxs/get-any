@@ -13,5 +13,5 @@ interface Array<T> {
     console.log(arr.getAny()); // => 3
     
     */
-    getAny(): any;
+    getAny(): T;
 }
